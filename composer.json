@@ -1,0 +1,7 @@
+{
+  "require": {
+    "beanstream/beanstream": "^1.0",
+    "tecnickcom/tcpdf": "^6.8",
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
